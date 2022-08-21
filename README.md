@@ -1,1 +1,1 @@
-# Stocks-Analysis---SQL
+# Stocks-Analysis-SQL
